@@ -1,3 +1,8 @@
-header {
+.cabeçalho {
     background-color: #F0F8FF;
+    display: flex;
+}
+.xbox_vs_playstation{
+    width: 20%;
+
 }
