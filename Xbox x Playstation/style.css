@@ -1,8 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .cabeçalho {
-    background-color: #F0F8FF;
+    width: 100% ;
+    background-color: #66CDAA ;
     display: flex;
+    justify-content: center;
+    padding: 24px 0;
+    font-size: 24px;
 }
 .xbox_vs_playstation{
-    width: 20%;
+    width: 100%;
 
+}
+.definição-item{
+    font-size: 24px;
+    display: flex;
+    justify-content: right;
+}
+.Playstation{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+.definição-item2{
+    font-size: 24px;
+}
+.bola{
+ width: 50%;
 }
