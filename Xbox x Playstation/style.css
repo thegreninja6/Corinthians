@@ -17,7 +17,7 @@
 .definição-item{
     font-size: 24px;
     display: flex;
-    justify-content: right;
+    justify-content:center;
 }
 .Playstation{
     font-size: 50px;
@@ -25,8 +25,12 @@
     justify-content: center;
 }
 .definição-item2{
+    display: flex;
+    justify-content: center;
     font-size: 24px;
 }
 .bola{
+    display: flex;
+    justify-content: center;
  width: 50%;
 }
